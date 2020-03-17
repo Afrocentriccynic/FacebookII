@@ -55,9 +55,12 @@ header button{
     color: #ffffff;
 }
 
+span {
+    color: #3458ce;
+}
 /* middle */
 #general{
-    background-color: #d9dbe6;
+    background-color: #eceef7;
 }
 
 /* #connect {
@@ -73,6 +76,57 @@ header button{
 #signup {
     float: right;
 } */
+
+select{
+    padding-top: 5px;
+    padding-bottom: 3px;
+    font-size: 13px;
+    color: #666;
+}
+
+.same{
+    color: rgb(156, 156, 156);
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.gender{
+    padding-top: 0;
+    padding-bottom: 4px;
+    font-size: large;
+    color: #555454;
+}
+
+#bigGreen{
+    color: #ffffff;
+    margin: auto;
+    font-weight: bold;
+    font: roboto;
+    font-size: large;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 3em;
+    padding-right: 3em;
+    border-radius: 4px;
+    letter-spacing: normal;
+    background-color: #69a74e;
+    border-color: #a8db9b;
+}
+
+p.celeb{
+    padding-top: 20px;
+    font-size: 12.5px;
+    font-weight: bold;
+    color: rgb(128, 128, 128);
+    padding-bottom: 15px;
+}
+
+p.click{
+    font-size: 11px;
+    font: roboto;
+    color: #818181;
+    padding-bottom: 10px;
+}
 
 hr {
     width: 7500px;
